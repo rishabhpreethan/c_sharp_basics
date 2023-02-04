@@ -1,0 +1,15 @@
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.csproj.AssemblyReference.cache
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.AssemblyInfoInputs.cache
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.AssemblyInfo.cs
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.csproj.CoreCompileInputs.cache
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/bin/Debug/net7.0/c_sharp_basics
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/bin/Debug/net7.0/c_sharp_basics.deps.json
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/bin/Debug/net7.0/c_sharp_basics.runtimeconfig.json
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/bin/Debug/net7.0/c_sharp_basics.dll
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/bin/Debug/net7.0/c_sharp_basics.pdb
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.dll
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/refint/c_sharp_basics.dll
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.pdb
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/c_sharp_basics.genruntimeconfig.cache
+/Users/rishabh/Documents/github/c_sharp_basics/c_sharp_basics/obj/Debug/net7.0/ref/c_sharp_basics.dll
